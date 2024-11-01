@@ -39,10 +39,10 @@
 ### 程序截图：
 ![image/1.png](image/image017.png)
 ![image/1.png](image/image019.png)
-![image/1.png](image/image020.png)
-![image/1.png](image/image024.png)
+![image/1.png](image/image020.jpg)
+![image/1.png](image/image024.jpg)
 ![image/1.png](image/image025.png)
-![image/1.png](image/image026.png)
+![image/1.png](image/image026.jpg)
 
 
 
